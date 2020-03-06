@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/42373265/backspace-does-not-work-git-bash
+기트배쉬오류

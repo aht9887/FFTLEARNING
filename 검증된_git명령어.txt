@@ -1,0 +1,11 @@
+기트편집명령어
+
+ls						하위항목 표시
+git clone http://github.com/aht9887/FFTLEARNING.git	저장소 복사
+cd FFTLEARNING					해당 폴더로 이동
+git add test.txt					test.txt 는 올리고자 하는 폴더를 가상 저장소에 올리기
+git status						상태보기
+git commit -m "first commit" test.txt			해당 파일의 커밋 내용 추가
+git push -u origin master				push 명령어(아이디, 비번 치는 창 뜨면 완성)
+git add -A					git add test.txt처럼 특정 파일이 아닌 모든 파일 설정
+
